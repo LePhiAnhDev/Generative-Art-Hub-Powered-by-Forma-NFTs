@@ -1,0 +1,14 @@
+faiss-cpu
+pymongo
+aiohttp
+uvicorn
+numpy
+pydantic
+fastapi
+sentence-transformers
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+imageio
+Pillow
+diffusers
+huggingface_hub
+safetensors
