@@ -92,7 +92,7 @@ We have also integrated 2 additional AI models for generating art images and vid
 ### 1️⃣ Clone the project
 `git clone <repo-url>`
 
-`cd "Generative Art Hub"`
+`cd "Generative-Art-Hub-Powered-by-Forma-NFTs"`
 ### 2️⃣ Install required libraries
 `pip install -r requirements.txt`
 
