@@ -114,5 +114,6 @@ We have also integrated 2 additional AI models for generating art images and vid
 
 3️⃣ Animate Diff-Lighting
 
+---
 
 🚀 **We are confident that these breakthrough technologies and ideas, along with real evidence from our championship win at our local Hackathon and thousands of positive reviews we've received in technology forums, will create a breakthrough in transforming NFTs, while contributing an important part to Celestia infrastructure!**
