@@ -73,6 +73,7 @@ We have also integrated 2 additional AI models for generating art images and vid
 
 <div align="center">
     <div>
+        <img src="https://files.catbox.moe/0eoa0n.png" alt="Image 1" style="width: 70%; height: auto;">
         <img src="https://files.catbox.moe/polaj9.png" alt="Image 1" style="width: 70%; height: auto;">
         <img src="https://files.catbox.moe/cix9xz.PNG" alt="Image 2" style="width: 70%; height: auto;">
     </div>
