@@ -117,7 +117,8 @@ We have also integrated 2 additional AI models for generating art images and vid
 
 ---
 
-📀 Video Demo
+# 📀 Video Demo
+
 You can see in this link: https://drive.google.com/file/d/1EF-tQoAzpQFdc3tuJwCKnOcUJUMnx-sL/view?usp=sharing
 
 ---
